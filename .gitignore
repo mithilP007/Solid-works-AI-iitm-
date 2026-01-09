@@ -17,3 +17,6 @@ last_speed.txt
 last_tta.txt
 submission.csv
 test_output.txt
+
+node_modules/
+src_modern_backup/
