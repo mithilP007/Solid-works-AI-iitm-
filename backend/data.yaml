@@ -1,0 +1,9 @@
+train: d:/Solid works datasets datas/datasets/train/images
+val: d:/Solid works datasets datas/datasets/val/images
+
+nc: 4
+names:
+  0: bolt
+  1: locatingpin
+  2: nut
+  3: washer

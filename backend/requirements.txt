@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+pandas
+PyYAML
+pillow
+fastapi
+uvicorn[standard]
+fpdf
+python-docx
+python-multipart
+aiofiles
